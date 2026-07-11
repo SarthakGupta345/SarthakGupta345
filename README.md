@@ -1,87 +1,82 @@
-<h1 align="center">Hey, I'm Chandan  Gupta 👋</h1>
-<h3 align="center">21 y/o Developer • AI Tinkerer • Full-Stack Fanatic</h3>
+<h1 align="center">Hey, I'm Chandan Gupta 👋</h1>
+<h3 align="center">3rd Year CSE Student @ MANIT Bhopal • MERN Stack Developer • Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=600&lines=I+write+code+that+works+(usually);Building+AI+%26+Full-Stack+projects+for+fun;Professionally+breaking+and+fixing+my+own+apps;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=600&lines=I+ship+products+to+production;Building+full-stack+%26+AI+projects;Solving+DSA+problems+one+bug+at+a+time;">
 </p>
 
 ---
 
 ## 🚀 About Me
-
-- 🧠 Full-stack and AI developer focused on building reliable, scalable, and user-centric applications  
-- 💼 Experienced in designing **end-to-end systems**, from backend APIs to interactive frontends  
-- 🎯 Currently deepening my knowledge in **backend architecture**, **Redis**, and **cloud deployment workflows**  
-- 🔍 Strong interest in automation, system performance, and real-time application design  
-- 🌱 Firm believer in clean code, maintainable systems, and continuous improvement  
-- 🚀 Always experimenting with new ideas, whether it's AI, 3D visuals, or developer tools  
+- 🎓 3rd year B.Tech CSE student at **Maulana Azad National Institute of Technology (MANIT), Bhopal**
+- 💻 MERN stack developer who loves taking projects from idea to **deployed, production-ready** applications
+- 🏆 Active competitive programmer on **Codeforces, CodeChef, and LeetCode**
+- 🤖 Exploring AI/ML — building RAG pipelines, agentic workflows, and LLM-powered apps
+- 🚀 I like shipping fast, deploying often, and learning by building real things
+- 🌱 Always leveling up in system design, backend architecture, and cloud deployment
 
 ---
 
-## 🛠️ Tech Stack (Proof that I don’t touch grass)
+## 🛠️ Tech Stack
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,go,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,c,html,css" />
 </p>
 
 ### **Frameworks & Libraries**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind" />
 </p>
 
-### **Systems, Tools & Dev Utilities**
+### **Databases & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,aws,docker,vercel" />
+</p>
+
+### **Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,bash" />
 </p>
 
-### **Cloud & Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,vercel,gcp" />
+---
+
+## 🔥 Featured Projects
+
+### 🧠 **NotebookAI – Full-Stack RAG Chatbot**
+A NotebookLM-inspired AI chatbot built with FastAPI, LangChain, and LangGraph for agentic orchestration — featuring intent classification, query rewriting, and multi-turn memory. Deployed with Docker on AWS EC2, frontend on Vercel.  
+`Python` `FastAPI` `LangChain` `LangGraph` `MongoDB` `ChromaDB/FAISS` `Next.js` `TypeScript` `Docker` `AWS EC2`
+
+---
+
+### 📚 **UpskillsX – Udemy-Style E-Learning Marketplace**
+A full-featured online course marketplace with video streaming, payments, and background processing — built for scale with Redis caching and CI/CD pipelines.  
+`Next.js` `TypeScript` `Express.js` `Prisma` `PostgreSQL (AWS RDS)` `Docker` `AWS EC2/S3` `Redis` `Stripe` `GitHub Actions`
+
+---
+
+### ⚙️ **PyGit – Custom Version Control System**
+A Git-inspired version control system built from scratch in Python to understand how Git works under the hood — object storage, commits, branching, and diffing.  
+→ [Repo](https://github.com/SarthakGupta345/GitTracker)  
+`Python`
+
+---
+
+## 📊 Competitive Programming
+<p align="left">
+  <a href="https://codeforces.com/profile/SarthakGupta46"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/sarthakgupta46"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://leetcode.com/SarthakGupta46"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
-
-
----
-
-## 🔥 Featured Projects (The things that make me look productive)
-
-### 🛠️ **Gitcury – Commit Message Automation (Go)**
-A CLI tool that writes your commit messages. Now you can finally stop using “final_final_reallyfinal2”.  
-→ [Repo](https://github.com/divyansh1010x/GitCury)
-
----
-### 🧠 **Smart Money – AI Finance Manager**
-AI-powered financial tracker that explains your spending like a strict Indian parent.  
-→ [Deployed](https://smartmoney-new-763874766709.asia-south1.run.app/)  
-
----
-
-### ⚔️ **Kuizu – Multiplayer Quiz App**
-Real-time quiz with chat, party mode, and speed scoring — because rage-quitting alone is boring.  
-→ [Deployed](https://kuizu-io.vercel.app/)  
-
----
-
-### 🎧 **MPV – Music Player & Visualizer**
-A C++ + OpenGL audio visualizer that vibes harder than your Spotify Wrapped.  
-→ [Repo](https://github.com/divyansh1010x/MPV)
-
----
-
-### 🛒 **E-Commerce with Recommendation Engine**
-Recommendation algorithm so good it almost convinced me to buy my own project.  
-→ [Deployed](https://ecommerce-website-84sc2lofh-agam77055s-projects.vercel.app/)
 
 ---
 
 ## 🤝 Connect With Me
-
 <p align="left">
-  <a href="https://www.linkedin.com/in/divyansh-maheshwari-832b992a2/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.instagram.com/divyansh_1010/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://github.com/divyansh1010x"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://github.com/SarthakGupta345"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
 
-<p align="center"><i>“I don’t rise and grind. I rise and debug.”</i></p>
+<p align="center"><i>"Code never lies, comments sometimes do — but deployed code doesn't need excuses."</i></p>
